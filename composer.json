@@ -1,5 +1,5 @@
 {
-    "name": "zfcampus/zf-console",
+    "name": "azatestte/qu-test",
     "description": "Library for creating and dispatching console commands",
     "license": "GPL-3.0-only",
     "require": {
